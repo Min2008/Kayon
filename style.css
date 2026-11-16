@@ -1,0 +1,7 @@
+body {
+  background-image: url("fundo.jpg");
+  background-repeat: no-repeat;    /* Evita que a imagem se repita */
+  background-size: cover;          /* Faz a imagem cobrir todo o espaço */
+  background-position: center;     /* Centraliza a imagem na tela */
+  background-attachment: fixed;    /* Mantém o fundo fixo ao rolar a página */
+}
